@@ -25,6 +25,8 @@ public class App extends Application {
 
         LogUtils.d("dev  branch");
 
+        LogUtils.d("tev branch");
+
         //初始化Logger
         Logger.init(Constants.LOG_TAG_NAME).hideThreadInfo().methodCount(0);
 
