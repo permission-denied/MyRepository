@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MayBaseProject</string>
+
+
+    <!-- common -->
+    <string name="loading">加载中&#8230;</string>
+    <string name="no_data_for_the_time_begin">暂无数据</string>
+    <string name="load_failed">加载失败</string>
+    <string name="common_question">常见问题</string>
+    <string name="contact_customer_service">联系客服</string>
+
+
+    <!-- 贷款-->
+    <string name="loan">贷款</string>
+    <string name="loan_amount">贷款金额</string>
+    <string name="apply_now">立即申请</string>
+    <string name="loan_term">贷款期限</string>
+    <string name="amount_payable_at_maturity">到期应还：%1$s CNY</string>
+    <string name="go_loan">去贷款</string>
+
+
+    <!-- 还款 -->
+    <string name="repayment">还款</string>
+
+    <!-- user-->
+    <string name="my">我的</string>
+    <string name="contac_us">联系我们</string>
+
+
+</resources>
