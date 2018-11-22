@@ -5,6 +5,7 @@ import android.app.Application;
 import android.os.Bundle;
 
 import com.may.base.utils.AppUtils;
+import com.may.base.utils.LogUtils;
 import com.may.base.utils.manager.ActivityStackManager;
 import com.orhanobut.logger.Logger;
 
@@ -21,10 +22,8 @@ public class App extends Application {
         super.onCreate();
 
         AppUtils.init(this);
-        
-        
-        
-        
+
+        LogUtils.d("dev  branch");
 
         //初始化Logger
         Logger.init(Constants.LOG_TAG_NAME).hideThreadInfo().methodCount(0);
