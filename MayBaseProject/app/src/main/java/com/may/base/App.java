@@ -21,6 +21,10 @@ public class App extends Application {
         super.onCreate();
 
         AppUtils.init(this);
+        
+        
+        
+        
 
         //初始化Logger
         Logger.init(Constants.LOG_TAG_NAME).hideThreadInfo().methodCount(0);
