@@ -28,6 +28,8 @@ public class App extends Application {
         LogUtils.d("tev branch");
 
         LogUtils.d("v10 branch add");
+        
+        LogUtils.d("fix 1.0 bug");
 
         //初始化Logger
         Logger.init(Constants.LOG_TAG_NAME).hideThreadInfo().methodCount(0);
