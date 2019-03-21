@@ -8,6 +8,7 @@ public class Constants {
     public static boolean DEBUG = BuildConfig.DEBUG;
     public static String LOG_TAG_NAME = "etcgame";
     public static String LOG_TAG_NAME_TWO = "etcgame";
+    public static String LOG_TAG_NAME_Three = "etcgame";
 
     public static class IntentExtraKey {
 
