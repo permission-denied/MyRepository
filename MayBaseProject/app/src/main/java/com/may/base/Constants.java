@@ -18,6 +18,7 @@ public class Constants {
     public static String LOG_TAG_NAME_TEN = "etcgame";
     public static String LOG_TAG_NAME_ELVEN= "etcgame";
     public static String LOG_TAG_NAME_TWELVE= "etcgame";
+    public static String LOG_TAG_NAME_THIRTEEN= "etcgame";
 
 
     public static class IntentExtraKey {
